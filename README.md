@@ -1,1 +1,2 @@
-# test
+Repo for testing Git commands
+------------------------------
